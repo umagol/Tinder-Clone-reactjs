@@ -10,22 +10,22 @@
     box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 3) !important;
 }
 .swipeButton__repate{
-    padding: 3vw  !important;
+    padding: 1.7vw  !important;
     color: sandybrown !important;
 }
 .swipeButtons__left{
-    padding: 3vw !important;
+    padding: 1.7vw !important;
     color:palevioletred !important;
 }
 .swipeButtons__star{
-    padding: 3vw !important;
+    padding: 1.7vw !important;
     color: royalblue !important;
 }
 .swipeButtons__right{
-    padding: 3vw !important;
+    padding: 1.7vw !important;
     color:aqua !important;
 }
 .swipeButtons__lightning{
-    padding: 3vw !important;
+    padding: 1.7vw !important;
     color:brown !important;
 }
