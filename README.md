@@ -50,11 +50,11 @@
 
 ### Screen shot
 
-<center>
-<img src="./ScreenShot/1.jpg">
-<img src="./ScreenShot/2.jpg">
-<img src="./ScreenShot/3.jpg">
-</center>
+<p float="left">
+<img width="30%" src="./ScreenShot/1.jpg">
+<img width="30%" src="./ScreenShot/2.jpg">
+<img width="30%" src="./ScreenShot/3.jpg">
+</p>
 
 
 
